@@ -7,3 +7,5 @@
 
 ##### *You can contact me in any of my social networks or in my email.*
 ###### [GitHub Pages](https://github.com/daniel-britos).
+###### [Instagram](https://www.instagram.com/danielbritos.vfx/).
+![This is an image](https://e7.pngegg.com/pngimages/548/578/png-clipart-computer-programming-computer-icons-programmer-computer-software-source-code-symbol-miscellaneous-text-thumbnail.png)
