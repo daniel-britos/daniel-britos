@@ -3,16 +3,8 @@
 <!--
 **daniel-britos/daniel-britos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I have knowledge in C# .NET EF, Sql Server, JQuery, Javascript, HTML, CSS, NodeJs, React.
+### I am currently working on personal projects and I am looking to participate in any project 
+### that allows me to develop in the IT industry.
 
-- 🔭 I’m currently working on ...
-Personal projects
-- 🌱 I’m currently learning ...
-Node Js and React
-- 👯 I’m looking to collaborate on ...
-Projects of all kinds related to web/mobile development
-- 📫 How to reach me: ...
-Contact me on any of my social networks or email.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can contact me in any of my social networks or in my email.
