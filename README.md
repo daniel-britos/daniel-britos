@@ -1,7 +1,7 @@
 # Hello World! :earth_americas: :earth_asia: :earth_africa:
 
 
-##### *I have knowledge in C# .NET EF, Sql Server, JQuery, Javascript, HTML, CSS, NodeJs, React.*
+##### *I have knowledge in C# .NET EF, Sql Server, JQuery, Javascript, HTML, CSS, NodeJs*
 ##### *I am currently working on personal projects and I am looking to participate in any project.*
 ##### *that allows me to develop in the IT industry.*
 
