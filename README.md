@@ -6,7 +6,7 @@ Anteriormente realicé el curso para Desarrollador .NET en ComunidadIT con una d
 por semana y 4hs por dia.<br/>
 Busco participar en proyectos que me permitan desarrollarme en la industria.<br/>
 </p>
-
+<a href="https://github.com/daniel-britos">GitHub</a>
 
 ##### *Contacto: danielbritospersonal@gmail.com*
 ###### [GitHub Pages](https://github.com/daniel-britos).
