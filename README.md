@@ -1,13 +1,14 @@
 ![PORTADADANIELGIT](https://user-images.githubusercontent.com/78456565/172761607-0b729d56-4011-49f8-a906-29d5cf301846.png)
 
 ## Hello World! :earth_americas:
-<h3>Un poco sobre mi</h3>
-<p>
+<h3>SOBRE MI :writing_hand: </h3>
+<p><i>
 Actualmente me encuentro finalizando mis estudios en la capacitación intensiva de 7 meses para<br/>
 Desarrollador FullStack Nodejs en instituto <a href="https://www.digitalhouse.com/ar">Digital House</a>, beca otorgada por <a href="https://www.fundacionformar.net/agencia-de-programacion">Fundación Formar</a>. (finaliza 12/7/2022)<br/>
 Anteriormente realicé el curso para Desarrollador .NET en <a href="https://www.comunidadit.org/">ComunidadIT</a> con una duración de 3 meses, <br/>
 
 Estoy entusiasmado por participar en proyectos que me permitan desarrollarme en la industria. :star_struck:
+ </i>
 </p>
  <br/> 
 <p>
