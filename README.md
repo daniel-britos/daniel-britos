@@ -1,3 +1,9 @@
+![PORTADADANIELGIT](https://user-images.githubusercontent.com/78456565/172761607-0b729d56-4011-49f8-a906-29d5cf301846.png)
+
+
+
+
+
 # Hello World! :earth_americas: :earth_asia: :earth_africa:
 <p>
 Actualmente me encuentro finalizando mis estudios en la capacitación intensiva de 7 meses para<br/>
@@ -9,7 +15,6 @@ Estoy entusiasmado por participar en proyectos que me permitan desarrollarme en 
 <p>
 Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github</a>
 </p>
-
 
 ##### *Contacto: danielbritospersonal@gmail.com*
 <a href="https://www.instagram.com/danielbritos.vfx/">Instagram</a>
