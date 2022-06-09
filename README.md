@@ -6,6 +6,10 @@ Anteriormente realicé el curso para Desarrollador .NET en <a href="https://www.
 
 Estoy entusiasmado por participar en proyectos que me permitan desarrollarme en la industria.<br/>
 </p>
+<p>
+Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github</a>
+</p>
+
 
 ##### *Contacto: danielbritospersonal@gmail.com*
 <a href="https://www.instagram.com/danielbritos.vfx/">Instagram</a>
