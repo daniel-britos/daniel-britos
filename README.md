@@ -1,10 +1,10 @@
 # Hello World! :earth_americas: :earth_asia: :earth_africa:
 <p>
 Actualmente me encuentro finalizando mis estudios en la capacitación intensiva de 7 meses para<br/>
-Desarrollador FullStack Nodejs en instituto Digital House, beca otorgada por Fundación Formar. (finaliza 12/7/2022)<br/>
-Anteriormente realicé el curso para Desarrollador .NET en ComunidadIT con una duración de 3 meses, dos veces<br/>
-por semana y 4hs por dia.<br/>
-Busco participar en proyectos que me permitan desarrollarme en la industria.<br/>
+Desarrollador FullStack Nodejs en instituto <a href="https://www.digitalhouse.com/ar">Digital House</a>, beca otorgada por <a href="https://www.fundacionformar.net/agencia-de-programacion">Fundación Formar</a>. (finaliza 12/7/2022)<br/>
+Anteriormente realicé el curso para Desarrollador .NET en <a href="https://www.comunidadit.org/">ComunidadIT</a> con una duración de 3 meses, <br/>
+dos veces por semana 4hs por dia.<br/>
+Estoy entusiasmado por participar en proyectos que me permitan desarrollarme en la industria.<br/>
 </p>
 
 ##### *Contacto: danielbritospersonal@gmail.com*
