@@ -22,10 +22,10 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <h3><b>Mis ultimos 3 proyectos: </b></h3>
 <hr/>
 <h4>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo</a></h4>
-![PORTADADANIELGIT](https://user-images.githubusercontent.com/78456565/172761607-0b729d56-4011-49f8-a906-29d5cf301846.png)
+<img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
-<h4>App-Delivery - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo</a></h4>
-![PORTADADANIELGIT](https://user-images.githubusercontent.com/78456565/172761607-0b729d56-4011-49f8-a906-29d5cf301846.png)
+<h4>App - <a href="https://github.com/daniel-britos?tab=repositories">Delivery</a></h4>
+<img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
-<h4>App-Sorteo - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo</a></h4>
-![PORTADADANIELGIT](https://user-images.githubusercontent.com/78456565/172761607-0b729d56-4011-49f8-a906-29d5cf301846.png)
+<h4>App - <a href="https://github.com/daniel-britos?tab=repositories">Sorteo</a></h4>
+<img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
