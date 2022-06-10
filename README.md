@@ -19,6 +19,6 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <a href="https://www.instagram.com/danielbritos.vfx/">Facebook</a>
 <a href="https://www.linkedin.com/in/daniel-britos-976840206/">linkedin</a>
 
-<h3>Mis ultimos 3 proyectos:</h3>
+<h3><b>Mis ultimos 3 proyectos: </b></h3>
 
-<p>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo</a></p>
+<h4>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo</a></h4>
