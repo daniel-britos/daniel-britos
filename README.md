@@ -14,7 +14,7 @@ Estoy entusiasmado por trabajar con vos!. :star_struck:
 <p>
 Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github</a>
 </p>
-:mailbox_with_no_mail: <h4>Contacto: danielbritospersonal@gmail.com</h4>
+<h4>Contacto: danielbritospersonal@gmail.com :mailbox_with_no_mail: </h4>
 <a href="https://www.instagram.com/danielbritos.vfx/">Instagram</a>
 <a href="https://www.instagram.com/danielbritos.vfx/">Facebook</a>
 <a href="https://www.linkedin.com/in/daniel-britos-976840206/">linkedin</a>
