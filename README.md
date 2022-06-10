@@ -20,5 +20,5 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <a href="https://www.linkedin.com/in/daniel-britos-976840206/">linkedin</a>
 
 <h3><b>Mis ultimos 3 proyectos: </b></h3>
-
+<hr/>
 <h4>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo</a></h4>
