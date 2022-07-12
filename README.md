@@ -10,10 +10,7 @@ Anteriormente realicé el curso para Desarrollador .NET en <a href="https://www.
  
 Estoy entusiasmado por trabajar con tu equipo!. :star_struck:
  
-Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github 
-:bowtie:	bowtie
-:neckbeard:	neckbeard
-:octocat: </a>
+Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github :octocat: </a>
  </i>
 </p>
 
