@@ -21,8 +21,8 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 
 <h3><b>Mis ultimos 3 proyectos: </b></h3>
 <hr/>
-<h4>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo - wip</a>
-<a href="hhttps://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
+<h4>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo - wip</a><br>
+<a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
 </h4>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
