@@ -27,7 +27,7 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <h4>e-commerce - <a href="https://cero-tempo14.herokuapp.com/">CeroTempo - wip</a><br>
 👉 <a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
 </h4>
-<img src="">
+<img src="https://raw.githubusercontent.com/daniel-britos/grupo_3_CeroTempo/main/Extras/gitImageCeroTempo.jpg">
 
 <h4>App - <a href="https://github.com/daniel-britos?tab=repositories">Delivery</a></h4>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
