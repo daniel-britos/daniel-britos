@@ -8,9 +8,12 @@ Actualmente me encuentro finalizando mis estudios en la capacitación intensiva 
 Desarrollador FullStack Nodejs en instituto <a href="https://www.digitalhouse.com/ar">Digital House</a>, beca otorgada por <a href="https://www.fundacionformar.net/agencia-de-programacion">Fundación Formar</a>. (finaliza 12/7/2022)<br/>
 Anteriormente realicé el curso para Desarrollador .NET en <a href="https://www.comunidadit.org/">ComunidadIT</a> con una duración de 3 meses, <br/>
  
-Estoy entusiasmado por trabajar con vos!. :star_struck:
+Estoy entusiasmado por trabajar con tu equipo!. :star_struck:
  
-Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github</a>
+Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.com/daniel-britos?tab=repositories">Github 
+:bowtie:	bowtie
+:neckbeard:	neckbeard
+:octocat: </a>
  </i>
 </p>
 
@@ -21,10 +24,10 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 
 <h3><b>Mis ultimos 3 proyectos: </b></h3>
 <hr/>
-<h4>e-commerce - <a href="https://github.com/daniel-britos?tab=repositories">CeroTempo - wip</a><br>
-<a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
+<h4>e-commerce - <a href="https://cero-tempo14.herokuapp.com/">CeroTempo - wip</a><br>
+👉 <a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
 </h4>
-<img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
+<img src="">
 
 <h4>App - <a href="https://github.com/daniel-britos?tab=repositories">Delivery</a></h4>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
