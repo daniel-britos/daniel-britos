@@ -19,7 +19,7 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <a href="https://www.instagram.com/danielbritos.vfx/">Facebook</a>
 <a href="https://www.linkedin.com/in/daniel-britos-976840206/">linkedin</a>
 
-<h3><b>Mis ultimos 3 proyectos: </b></h3>
+<h3><b>ultimos proyectos: </b></h3>
 <hr/>
 <h4>e-commerce - <a href="https://cero-tempo14.herokuapp.com/">CeroTempo - wip</a><br>
 👉 <a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
@@ -32,8 +32,10 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <h4>App - <a href="https://cero-tempo14.herokuapp.com/">Sorteo</a></h4>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
-<h4>App - <a href="https://portero-digital.000webhostapp.com/">Portero-digital</a></h4>
 
+<h3><b> Algunas prácticas </b></h3> :point_down:
+<h4> Portero de ascensor digital <a href="https://portero-digital.000webhostapp.com/">URL</a></h4>
+<h4> Repositorio: <a href="https://github.com/daniel-britos/portero-digital.git">URL</a></h4>
 
 
 
