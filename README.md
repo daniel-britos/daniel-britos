@@ -35,13 +35,12 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 
 <h3><b> ALGUNAS PRÁCTICAS </b></h3>
 <hr/>
-:point_right: <h4> Portero de ascensor digital 
- 🌐 <a href="https://portero-digital.000webhostapp.com/">URL</a>
+<h4> Portero de ascensor digital 
+ 🌐 <a href="https://portero-digital.000webhostapp.com/">URL - </a>
  :octocat: <a href="https://github.com/daniel-britos/portero-digital.git">REPO</a>
 </h4>
-
-:point_right: <h4> Portero de ascensor digital 
- 🌐 <a href="https://portero-digital.000webhostapp.com/">URL</a>
+<h4> Portero de ascensor digital 
+ 🌐 <a href="https://portero-digital.000webhostapp.com/">URL - </a>
  :octocat: <a href="https://github.com/daniel-britos/portero-digital.git">REPO</a>
 </h4>
 
