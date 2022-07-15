@@ -33,8 +33,8 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
 
-<h3><b> Algunas prácticas </b></h3> :point_down:
-<h4> Portero de ascensor digital <a href="https://portero-digital.000webhostapp.com/">URL</a></h4>
+<h3><b> Algunas prácticas </b></h3>
+:point_right: <h4> Portero de ascensor digital <a href="https://portero-digital.000webhostapp.com/">URL</a></h4>
 <h4> Repositorio: <a href="https://github.com/daniel-britos/portero-digital.git">URL</a></h4>
 
 
