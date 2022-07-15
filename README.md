@@ -1,7 +1,7 @@
 ![PORTADADANIELGIT](https://user-images.githubusercontent.com/78456565/172761607-0b729d56-4011-49f8-a906-29d5cf301846.png)
 
 ## Hello World! :earth_americas:
-<h3>SOBRE MI :writing_hand: </h3>
+<h2>SOBRE MI :writing_hand: </h2>
 <p>
  <i>
 Actualmente me encuentro finalizando mis estudios en la capacitación intensiva de 7 meses para<br/>
@@ -19,7 +19,7 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <a href="https://www.instagram.com/danielbritos.vfx/">Facebook</a>
 <a href="https://www.linkedin.com/in/daniel-britos-976840206/">linkedin</a>
 
-<h3><b>ultimos proyectos: </b></h3>
+<h2><b>ULTIMOS PROYECTOS</b></h2>
 <hr/>
 <h4>e-commerce - <a href="https://cero-tempo14.herokuapp.com/">CeroTempo - wip</a><br>
 👉 <a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
@@ -33,9 +33,13 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
 
-<h3><b> Algunas prácticas </b></h3>
-:point_right: <h4> Portero de ascensor digital <a href="https://portero-digital.000webhostapp.com/">URL</a></h4>
-<h4> Repositorio: <a href="https://github.com/daniel-britos/portero-digital.git">URL</a></h4>
+<h3><b> ALGUNAS PRÁCTICAS </b></h3>
+<hr/>
+:point_right: <h4> Portero de ascensor digital 
+ 🌐 <a href="https://portero-digital.000webhostapp.com/">URL</a>
+ <a href="https://github.com/daniel-britos/portero-digital.git">REPO</a>
+</h4>
+
 
 
 
