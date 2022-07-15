@@ -37,7 +37,12 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <hr/>
 :point_right: <h4> Portero de ascensor digital 
  🌐 <a href="https://portero-digital.000webhostapp.com/">URL</a>
- <a href="https://github.com/daniel-britos/portero-digital.git">REPO</a>
+ :octocat: <a href="https://github.com/daniel-britos/portero-digital.git">REPO</a>
+</h4>
+
+:point_right: <h4> Portero de ascensor digital 
+ 🌐 <a href="https://portero-digital.000webhostapp.com/">URL</a>
+ :octocat: <a href="https://github.com/daniel-britos/portero-digital.git">REPO</a>
 </h4>
 
 
