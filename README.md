@@ -21,22 +21,22 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 
 <h2><b>ALGUNOS PROYECTOS PERSONALES</b></h2>
 <hr/>
-<h4>e-commerce - <a href="https://cero-tempo14.herokuapp.com/">CeroTempo - wip</a><br>
+<h4><a href="https://cero-tempo14.herokuapp.com/">e-commerce CeroTempo</a> JS, NodeJs, Express, Sequelize, MySql<br>
 👉 <a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
 </h4>
 <img src="https://raw.githubusercontent.com/daniel-britos/grupo_3_CeroTempo/main/Extras/gitImageCeroTempo.jpg">
 <hr/>
-<h4>App - <a href="https://youtu.be/CvmYO6TAT_M">App_Turnos</a></h4>
+<h4><a href="https://youtu.be/CvmYO6TAT_M">App-Turnos</a> - JS, C#, .Net, Mvc, Sendgrid, SQLServer </h4>
 ⏯️ <a href="https://youtu.be/I0P7aL99Et4">Demo</a></h4>
 :octocat: <a href="https://github.com/daniel-britos/App_Turnos.git">REPO</a>
 <img src="https://github.com/daniel-britos/App_Turnos/blob/master/docs/portadaGit.png">
 <hr/>
-<h4>App - <a href="https://youtu.be/CvmYO6TAT_M">Sorteo</a></h4>
+<h4><a href="https://youtu.be/CvmYO6TAT_M">App-Sorteo</a> - JS, C#, .Net, MVC, SQLServer </h4>
 ⏯️ <a href="https://youtu.be/CvmYO6TAT_M">Demo</a></h4>
 :octocat: <a href="https://github.com/daniel-britos/App-Sorteos/blob/master/doc/portada.jpg">REPO</a>
 <img src="https://raw.githubusercontent.com/daniel-britos/App-Sorteos/master/doc/portada.jpg">
 <hr/>
-<h4>App - <a href="https://github.com/daniel-britos?tab=repositories">Delivery</a></h4>
+<h4><a href="https://github.com/daniel-britos?tab=repositories">App-Delivery</a> - JS, C#, .Net, MVC, SQLServer </h4>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 <hr/>
 <h3><b> PRÁCTICAS </b></h3>
