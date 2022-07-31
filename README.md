@@ -30,7 +30,7 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
 <h4>App - <a href="https://youtu.be/CvmYO6TAT_M">Sorteo</a></h4>
-:octocat: <a href="https://github.com/daniel-britos/App-Sorteos.git">REPO</a>
+:octocat: <a href="https://github.com/daniel-britos/App-Sorteos/blob/master/doc/portada.jpg">REPO</a>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
 
 
