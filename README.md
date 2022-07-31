@@ -19,27 +19,27 @@ Si gustas puedes seguir mis avances en mi repositorio <a href="https://github.co
 <a href="https://www.instagram.com/danielbritos.vfx/">Facebook</a>
 <a href="https://www.linkedin.com/in/daniel-britos-976840206/">linkedin</a>
 
-<h2><b>ULTIMOS PROYECTOS</b></h2>
+<h2><b>ALGUNOS PROYECTOS PERSONALES</b></h2>
 <hr/>
 <h4>e-commerce - <a href="https://cero-tempo14.herokuapp.com/">CeroTempo - wip</a><br>
 👉 <a href="https://github.com/daniel-britos/grupo_3_CeroTempo.gits">Repositorio</a>
 </h4>
 <img src="https://raw.githubusercontent.com/daniel-britos/grupo_3_CeroTempo/main/Extras/gitImageCeroTempo.jpg">
-
-<h4>App - <a href="https://youtu.be/CvmYO6TAT_M">App_Clinicas</a></h4>
-⏯️ <a href="https://youtu.be/CvmYO6TAT_M">Demo</a></h4>
-:octocat: <a href="https://github.com/daniel-britos/App-Sorteos/blob/master/doc/portada.jpg">REPO</a>
+<hr/>
+<h4>App - <a href="https://youtu.be/CvmYO6TAT_M">App_Turnos</a></h4>
+⏯️ <a href="https://youtu.be/I0P7aL99Et4">Demo</a></h4>
+:octocat: <a href="https://github.com/daniel-britos/App_Turnos.git">REPO</a>
 <img src="https://github.com/daniel-britos/App_Turnos/blob/master/docs/portadaGit.png">
-
+<hr/>
 <h4>App - <a href="https://youtu.be/CvmYO6TAT_M">Sorteo</a></h4>
 ⏯️ <a href="https://youtu.be/CvmYO6TAT_M">Demo</a></h4>
 :octocat: <a href="https://github.com/daniel-britos/App-Sorteos/blob/master/doc/portada.jpg">REPO</a>
 <img src="https://raw.githubusercontent.com/daniel-britos/App-Sorteos/master/doc/portada.jpg">
-
+<hr/>
 <h4>App - <a href="https://github.com/daniel-britos?tab=repositories">Delivery</a></h4>
 <img src="https://github.com/daniel-britos/grupo_3_CeroTempo/blob/main/Extras/sitio.png">
-
-<h3><b> ALGUNAS PRÁCTICAS </b></h3>
+<hr/>
+<h3><b> PRÁCTICAS </b></h3>
 <hr/>
 <h4> Portero de ascensor digital 
  🌐 <a href="https://portero-digital.000webhostapp.com/">URL - </a>
